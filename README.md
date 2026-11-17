@@ -61,7 +61,6 @@ Was animiert wird:
 - Kartenüberschriften laufen beim Laden wie frische Tinte ins Bild
 - Karten, Badges und Ansichtswechsel blenden weich ein
 - Farbwechsel bei Ein/Aus laufen sanft statt hart
-- Goldstaub schwebt langsam durch den Hintergrund (geht auch ohne card-mod)
 
 ## Bubble Card
 
