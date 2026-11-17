@@ -61,6 +61,18 @@ Was animiert wird:
 - Kartenüberschriften laufen beim Laden wie frische Tinte ins Bild
 - Karten, Badges und Ansichtswechsel blenden weich ein
 - Farbwechsel bei Ein/Aus laufen sanft statt hart
+- Goldstaub schwebt langsam durch den Hintergrund (geht auch ohne card-mod)
+
+## Bubble Card
+
+Wer [Bubble Card](https://github.com/Clooos/Bubble-Card) nutzt, bekommt das Theme auch dort:
+
+- Feine Goldrahmen mit innerer Zierlinie, Ecken wie Buchseiten statt Pillenform
+- Runde Symbole mit Goldring; eingeschaltete Geräte glimmen wie Kerzenlicht
+- Trenner mit Cinzel-Titel und goldener Linie mit funkelndem Stern
+- Pop-ups in Nacht- bzw. Pergamentfarbe
+
+Farben aus eigenen `styles:` einzelner Karten bleiben erhalten. Rahmen und Farben kommen über Theme-Variablen; Glimmen, Zierlinie und Trenner brauchen card-mod.
 
 Karten werden nie mit `transform` bewegt, nur Deckkraft, Farben, Schatten und Masken. So bleiben Pop-ups mit fester Position (z. B. bubble-card) unberührt.
 
